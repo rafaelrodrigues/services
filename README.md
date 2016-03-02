@@ -1,2 +1,2 @@
 # services
-Projeto para controle de Serviços de Sistemas Externos
+Projeto para controle de Serviços de Sistemas Externos.
