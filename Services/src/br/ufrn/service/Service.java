@@ -10,7 +10,7 @@ public class Service {
 	
 	private void sinronizarServer() {
 		// TODO Auto-generated method stub
-
+		System.out.println("Sinc os servidores.");
 	}
 
 }
